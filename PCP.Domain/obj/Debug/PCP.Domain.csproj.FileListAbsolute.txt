@@ -1,0 +1,12 @@
+C:\Dados\Projetos\PCP\PCP.Domain\bin\Debug\PCP.Domain.dll
+C:\Dados\Projetos\PCP\PCP.Domain\bin\Debug\PCP.Domain.pdb
+C:\Dados\Projetos\PCP\PCP.Domain\obj\Debug\PCP.Domain.csprojAssemblyReference.cache
+C:\Dados\Projetos\PCP\PCP.Domain\obj\Debug\PCP.Domain.csproj.CoreCompileInputs.cache
+C:\Dados\Projetos\PCP\PCP.Domain\obj\Debug\PCP.Domain.dll
+C:\Dados\Projetos\PCP\PCP.Domain\obj\Debug\PCP.Domain.pdb
+C:\Dados\PCP\PCP.Domain\bin\Debug\PCP.Domain.dll
+C:\Dados\PCP\PCP.Domain\bin\Debug\PCP.Domain.pdb
+C:\Dados\PCP\PCP.Domain\obj\Debug\PCP.Domain.csprojAssemblyReference.cache
+C:\Dados\PCP\PCP.Domain\obj\Debug\PCP.Domain.csproj.CoreCompileInputs.cache
+C:\Dados\PCP\PCP.Domain\obj\Debug\PCP.Domain.dll
+C:\Dados\PCP\PCP.Domain\obj\Debug\PCP.Domain.pdb
