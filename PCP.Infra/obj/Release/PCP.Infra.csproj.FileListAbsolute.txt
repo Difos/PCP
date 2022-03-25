@@ -1,0 +1,15 @@
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\PCP.Infra.dll.config
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\PCP.Infra.dll
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\PCP.Infra.pdb
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\DotNet.Highcharts.dll
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\EntityFramework.dll
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\EntityFramework.SqlServer.dll
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\PCP.Domain.dll
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\PCP.Domain.pdb
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\EntityFramework.xml
+C:\Dados\Projetos\PCP\PCP.Infra\bin\Release\EntityFramework.SqlServer.xml
+C:\Dados\Projetos\PCP\PCP.Infra\obj\Release\PCP.Infra.csprojAssemblyReference.cache
+C:\Dados\Projetos\PCP\PCP.Infra\obj\Release\PCP.Infra.csproj.CoreCompileInputs.cache
+C:\Dados\Projetos\PCP\PCP.Infra\obj\Release\PCP.Infra.csproj.CopyComplete
+C:\Dados\Projetos\PCP\PCP.Infra\obj\Release\PCP.Infra.dll
+C:\Dados\Projetos\PCP\PCP.Infra\obj\Release\PCP.Infra.pdb

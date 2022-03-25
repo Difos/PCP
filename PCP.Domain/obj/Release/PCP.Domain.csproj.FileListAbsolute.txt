@@ -1,0 +1,6 @@
+C:\Dados\Projetos\PCP\PCP.Domain\bin\Release\PCP.Domain.dll
+C:\Dados\Projetos\PCP\PCP.Domain\bin\Release\PCP.Domain.pdb
+C:\Dados\Projetos\PCP\PCP.Domain\obj\Release\PCP.Domain.csprojAssemblyReference.cache
+C:\Dados\Projetos\PCP\PCP.Domain\obj\Release\PCP.Domain.csproj.CoreCompileInputs.cache
+C:\Dados\Projetos\PCP\PCP.Domain\obj\Release\PCP.Domain.dll
+C:\Dados\Projetos\PCP\PCP.Domain\obj\Release\PCP.Domain.pdb
